@@ -74,6 +74,23 @@ indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 liftoff.io, 7f6945815e6, RESELLER
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
+video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
+admixplay.com, 2012, RESELLER
+yandex.com, 97539269, RESELLER
+rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
+appnexus.com, 13293, RESELLER
+appnexus.com, 13297, RESELLER
+pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+google.com, pub-6503295277497737, RESELLER
+indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
+bidease.com, exchange-20, RESELLER
+criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
+xandr.com, 13297, RESELLER
 #admob
 google.com, pub-1509377280448287, DIRECT, f08c47fec0942fa0
 #pangle
